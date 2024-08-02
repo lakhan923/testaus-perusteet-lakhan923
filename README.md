@@ -8,19 +8,13 @@ Jokainen tehtävä sijoitetaan tänne omaan hakemistoonsa.
 Kurssin tarkoituksena on oppia ajattelemaan ohjelmointia testauksen näkökulmasta. Tärkeimmät opittavat taidot:
  - Opiskelija osaa kirjoittaa yksikkötestejä erilaisille metodeille. Hän tietää mitä tarkoitaa good weather ja bad weather testing.
  - Opiskelija osaa pienessä mittakaavassa tehdä funktionaalisia testejä, joissa testataan ohjelmistoa loppukäyttäjän näkökulmasta.
- - Opiskelija oppii katsomaan metodeja ja moduuleja testaajan näkökulmast ja pohtimaan useasta eri näkökulmasta metodien toimintaa.
+ - Opiskelija oppii katsomaan metodeja ja moduuleja testaajan näkökulmasta ja pohtimaan useasta eri näkökulmasta metodien toimintaa.
  - Opiskelija osaa lukea muiden kirjoittamaa koodia, kirjoittaa siihen testejä ja testien perusteella korjata olemassa olevaa toteutusta.
  - Opiskelija tutustuu käytettävyystestauksen perusteisiin ja ymmärtää UX:n merkityksen ohelmistokehityksessä.
 
 Bonus:
 - Tututustuminen Robot Frameworkin käyttöön.
 
-Osaamisen arviointi:
- - Moduuli 01 tehty. Osaaminen T1.
- - Moduuli 02 tehty. Osaaminen T2.
- - Moduuli 03 tehty. Osaaminen H3.
- - Moduuli 04-05 tehty. Osaaminen H4.
- - Robot frameworkkiin tutustuminen tai omaan projektiin testauksen soveltaminen.
 
 # Git ohje
 
@@ -50,13 +44,13 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdFIDeYjLcmRENhfZC16feD6/TJ1WrpSAfBkxr2v2+
 Tämä tehdään vain kerran kurssin aluksi. Olet saanut itsellesi linkin github-classroomiin, joka luo sinulle automaattisesti repositoryn. Valitse oma nimesi listasta.
 
 1. Avaa GitBash hakemistoon jonka alle haluat tehtäväkansion. Tämä onnistuu klikkaamalla oikealla hiirennapilla hakemistoa Windows Explorerissa ja valitsemalla "Avaa GitBash tässä."
-2. kirjoita komento```git clone "oma repository, joka löytyy Code napin takaa GitHubista" esim. git@github.com:Gradia-Ohjelmistokehitys-k2022/testaus-pohja.git``
+2. kirjoita komento```git clone "oma repository, joka löytyy Code napin takaa GitHubista" esim. git@github.com:Gradia-Ohjelmistokehitys-k2023/pohja-Testaus.git``
 
 
 # Uusien tehtävänantojen hakeminen
 Kaikki tämä tehdään GitBashissä harjoitustehtävän hakemistossa.
 1. ```git status``` - tarkista että olet main haarassa (branch), ja että sinulla ei ole avoimia muutoksia (jotka näkyvät punaisena tai vihreänä). Mikäli niitä on, tallenna ne ensin komennoilla ```git add .```, ```git commit -m "Muutokset talteen."```.
-2. <mark>Tämä tehdään vain kerran.</mark> Lisätään alkuperäinen pohja haettavaksi seuraavalla komennolla, jos muutoksia materiaaleihin tulee.```git remote add upstream https://github.com/Gradia-Ohjelmistokehitys-k2022/testaus-pohja.git```
+2. <mark>Tämä tehdään vain kerran.</mark> Lisätään alkuperäinen pohja haettavaksi seuraavalla komennolla, jos muutoksia materiaaleihin tulee.```git remote add upstream https://github.com/Gradia-Ohjelmistokehitys-k2023/pohja-Testaus.git```
 3. Haetaan uusin versio upstreamista ``git pull upstream main --allow-unrelated-histories`` --allow-unrelated-histories voi ratkaista githubclassroomiin liittyviä ongelmia.
 4. Varmista, että olet main branchissa seuraavalla komennolla```git checkout main```
 
