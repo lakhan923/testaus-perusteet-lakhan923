@@ -15,3 +15,6 @@ Asiakkaan pitää voida siirtää rahaa tililtä toiselle.
 2. Luo rahansiirtofunktiollesi yksikkötesti(t).
 
 3. Luo lisäksi funktionaalinen testi/testit jo(t)ka testaa(vat) koko asiakkaan polun tilin avaamisesta aina rahan siirtämiseen toisen asiakkaan tilille.
+
+   Siirry seuraavaksi **[tehtävän viimeiseen vaiheeseen - Funktionaalinen testi](3_FunktionaalinenTesti.md)**
+
