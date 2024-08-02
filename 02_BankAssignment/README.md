@@ -19,7 +19,7 @@ Linkki:
 https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2019
 
 
-Siirry seuraavaksi **[tehtävän toiseen vaiheeseen](2_Refaktorointi.md)**
+Siirry seuraavaksi **[tehtävän toiseen vaiheeseen - Refaktorointi](2_Refaktorointi.md)**
 
 
 
