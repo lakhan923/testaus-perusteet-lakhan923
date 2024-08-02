@@ -44,7 +44,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdFIDeYjLcmRENhfZC16feD6/TJ1WrpSAfBkxr2v2+
 Tämä tehdään vain kerran kurssin aluksi. Olet saanut itsellesi linkin github-classroomiin, joka luo sinulle automaattisesti repositoryn. Valitse oma nimesi listasta.
 
 1. Avaa GitBash hakemistoon jonka alle haluat tehtäväkansion. Tämä onnistuu klikkaamalla oikealla hiirennapilla hakemistoa Windows Explorerissa ja valitsemalla "Avaa GitBash tässä."
-2. kirjoita komento```git clone "oma repository, joka löytyy Code napin takaa GitHubista" esim. git@github.com:Gradia-Ohjelmistokehitys-k2023/pohja-Testaus.git``
+2. kirjoita komento```git clone ```oma repository, joka löytyy Code napin takaa GitHubista" esim. git@github.com:Gradia-Ohjelmistokehitys-k2023/pohja-Testaus.git``
 
 
 # Uusien tehtävänantojen hakeminen
