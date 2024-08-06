@@ -67,12 +67,9 @@ namespace TestFiles
             }
             catch (FileNotFoundException e)
             {
-            throw;
+              throw;
             }
-            catch
-            {
-                fileContent.Add(("File is empty"));
-            }
+
             finally
             {
                 reader.Close();
