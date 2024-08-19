@@ -1,7 +1,6 @@
-﻿
-using Warehouse;
+﻿using Warehouse;
 
-namespace WareHouse
+namespace Warehouse
 
 {
     internal class Program
